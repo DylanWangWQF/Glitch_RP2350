@@ -1,0 +1,5 @@
+For simplicity:
+
+cp myrp.uf2 /media/adminlocal/RP23502
+
+cmake -DPICO_PLATFORM=rp2350 -DPICO_BOARD=pico2 ..
